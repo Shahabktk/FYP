@@ -20,7 +20,8 @@ This project is my **Final Year Project (FYP)**, focused on building a **hybrid 
   - Unique word ratio  
 - **Custom Classifier** → Fully Connected Neural Network (MLP) that processes combined embeddings + features.  
 - **Optimized for Speed** → Ensures fast inference for real-world applications.  
-- **Deployment Ready** → Model designed to be integrated with Flask/FastAPI + Docker.  
+- **Deployment Ready** → Interactive web app built with **Streamlit** for real-time spam detection.  
+
 
 ## 📊 Dataset  
 - **Size**: ~33,665 entries with 13 columns.  
